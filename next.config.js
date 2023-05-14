@@ -7,7 +7,7 @@ const nextConfig = {
 
     },
     images: {
-        domains: [],
+        domains: []
     },
     typescript: {
         // !! WARN !!
